@@ -72,7 +72,7 @@ const App = () => {
       <Card className="w-full max-w-3xl mx-auto p-6 shadow-xl bg-white rounded-lg">
         <CardHeader>
           <CardTitle className="text-3xl font-bold text-center text-indigo-600">
-            🚀 onemillionideas.co
+            🚀 onemillionideas.xyz
           </CardTitle>
         </CardHeader>
         <CardContent className="space-y-6">
